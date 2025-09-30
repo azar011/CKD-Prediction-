@@ -2,3 +2,4 @@ streamlit==1.12.0
 scikit-learn
 pandas
 numpy
+imghdr
